@@ -77,6 +77,7 @@ print()
 print("= compare these outputs = >> ")
 print(photos_list)
 print("\n= vs = >> \n")
+print("This is the Flickr code. It is semi-functional in this current state")
 
 for photo in photos_list:
     print(photo)
